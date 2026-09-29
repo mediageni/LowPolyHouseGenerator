@@ -2,6 +2,8 @@
 
 Create and export customizable low poly 3D houses in your browser.
 
+![Low poly house in the Suburb scene](screenshots/preview.jpg)
+
 **Live generator:** https://3d.mediageni.com/low-poly-house-generator/
 
 Run locally with a static web server from this directory, then open its local URL in a browser. For example:
