@@ -1,5 +1,5 @@
 {
-  "engine": "1.6.0",
+  "engine": "1.7.0",
   "files": {
     "adapters/house/adapter.js": "765ac84489801285695cf8b5f594799daed0f545ca12b28ea77eb9bfbf7e5798",
     "adapters/house/builder.js": "d1f03870f0bba4224c0f8113d6db10b9de836b3d3de39016110e90612b5be0a7",
@@ -25,12 +25,13 @@
     "engine/state.js": "ab6b87971883fd2b5334c89e0e26a47ef054849fb29a2de16ce47217e6fde867",
     "engine/styles.css": "88b821645df9bd9cb89a477cfa7053307b19e7345bb9c6d8b2086493d68461eb",
     "engine/ui.js": "a4c210f59e41eb40c60c4728842d09c8653df3f3094097dba54cd0a54aa44c48",
-    "engine/version.js": "aae50a9ab2aa875dab8bc826ba1b8a7cac581fd346864359bac5ec57842fb9b0",
+    "engine/version.js": "85ae6f2f81d6b62ae78d7e645243cd51fc19121c481e9d3c03c651e6c5390897",
     "engine/zip.js": "e58b79af0b28e1f8cf100cc343711c783259342e4305ccb7ee1afb3639f00ac0",
     "vendor/BufferGeometryUtils.js": "c25b7930e570e9ec56173cd3b866ec8d2e10016630db3937efb439daf1cedbf6",
     "vendor/GLTFExporter.js": "3937e0a2c05c4d16a1fa020d7fbc3d91e43eb54b6a75440f6ed6b13393200778",
     "vendor/LICENSE-gifenc": "1610b01533a777ff952669a7d4fcb1e03b0d088c3409fd606d130f2d97cb017f",
     "vendor/LICENSE-meshoptimizer.txt": "f03037ca7bad1e3eb7f4a63fa6084a8baabd5ba30d3c239a9a7f35705d873e26",
+    "vendor/LICENSE-proctree.txt": "2e5c6536968e317f03c405c77ca981f65c832e0a6c7d63e3214d622e1dfe9ec9",
     "vendor/LICENSE-threejs": "4c40a1ef62450b857c3b2aaf294936304cd552d965fbcd9d32d4c5bcf4ba4454",
     "vendor/MarchingCubes.js": "b1c67207e4d2ab22c6550e57a8b9104896df2598e9bc513ffc4dc50238975e7b",
     "vendor/OBJExporter.js": "66390a529d3c24246258cd62e255e4b3910624d9ccdf8a502ef7e49043672eaa",
@@ -39,6 +40,7 @@
     "vendor/TextureUtils.js": "d9a427b2255891ac9f2bfa9c10e1eb2305abe79aaafb831583fc4a410307151c",
     "vendor/gifenc.esm.js": "cec614f6b77348eb6ea6a64921bab65e72d5e7f839a097c8fda8fc883c3146f7",
     "vendor/meshopt_simplifier.js": "c3098ee4cb4fc242b84f064c88898e76e44bf58b0e1f693507f323c08cdbb5ed",
+    "vendor/proctree.js": "be41230fa10e9f23d66821a598f82d050e4cbfee1c0f5de11e1267b96662b181",
     "vendor/three.module.js": "0a3368c165eea773490aec7b77c22de70e3eac288503409256fdbf4d12578416"
   }
 }
